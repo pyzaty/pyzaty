@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pyzaty
 - 👀 I’m interested in everything related to mobile development :D
 - 🌱 I’m currently playing around with:
-     Android Jetpack fetures
-     Extensive animations API
+     Android Jetpack fetures, 
+     Extensive animations API, 
      MVI 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
